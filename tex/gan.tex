@@ -107,7 +107,7 @@ kde $\lambda$ je vhodně zvolený hyperparametr.
 
 Na datové sadě MNIST \cite{MNIST} byly natrénovány generativní adversariální sítě pomocí Wassersteinovy ztrátové funkce
 a výše zmíněné regularizace.
-Implementační detaily lze vyčíst ze souboru \href{https://github.com/pavel-jaks/gans/blob/main/code/GAN-BCE.ipynb}{GAN-BCE.ipynb}.
+Implementační detaily lze vyčíst ze souboru \href{https://github.com/pavel-jaks/gans/blob/main/code/J-GAN.ipynb}{J-GAN.ipynb}.
 Na výsledně vygenerované obrázky po $100$ epochách učení lze nahlédnout v Obr. (\ref{obr}).
 
 \begin{figure}
@@ -116,6 +116,11 @@ Na výsledně vygenerované obrázky po $100$ epochách učení lze nahlédnout 
     \caption{Vygenerované obrázky po $100$ epochách učení}
     \label{obr}
 \end{figure}
+
+\section*{Závěr}
+
+Generativní adversariální sítě nabízí možnost, jak neuronovou síť naučit generovat obsah na zákadě dané datové sady.
+Je třeba mít ovšem na paměti, že se jedná o velice nestabilní záležitost, která pro lazení hyperparametrů vyžaduje mnoho trpělivosti.
 
 \newpage{}
 
