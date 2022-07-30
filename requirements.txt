@@ -1,4 +1,6 @@
 matplotlib
 torch
+torchvision
+torchaudio
 numpy
 python-mnist
