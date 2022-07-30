@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1659217553 "c:/Users/stani/Documents/school/POGR/POGR2/gans/tex/gan.tex" "gan.pdf" "gan" 1659217555
-  "c:/Users/stani/Documents/school/POGR/POGR2/gans/tex/gan.tex" 1659217552 6560 d8012c71cde5fefbbee6eec9c3aeb3f7 ""
+["pdflatex"] 1659217832 "c:/Users/stani/Documents/school/POGR/POGR2/gans/tex/gan.tex" "gan.pdf" "gan" 1659217834
+  "c:/Users/stani/Documents/school/POGR/POGR2/gans/tex/gan.tex" 1659217831 6645 b59f3266cfc46298f43616ef29d07dee ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1636055260 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1636053800 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1636053800 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -97,12 +97,12 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1636059448 4401551 5ba9eaeb3d6050afa3135f1abcf2569c ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636059553 2805262 9af4c9312b4f033220b04fa670c7b103 ""
   "c:/texlive/2021/texmf.cnf" 1636059420 713 e69b156964470283e0530f5060668171 ""
-  "gan.aux" 1659217555 1850 fa4f18ea84e11ca3e18583c3e6359ad8 "pdflatex"
-  "gan.out" 1659217555 686 9e6bb6ac7a93adfffd6a3f56d1ee5db6 "pdflatex"
-  "gan.tex" 1659217552 6560 d8012c71cde5fefbbee6eec9c3aeb3f7 ""
+  "gan.aux" 1659217834 1850 fa4f18ea84e11ca3e18583c3e6359ad8 "pdflatex"
+  "gan.out" 1659217834 686 9e6bb6ac7a93adfffd6a3f56d1ee5db6 "pdflatex"
+  "gan.tex" 1659217831 6645 b59f3266cfc46298f43616ef29d07dee ""
   "graphics/samples_100.png" 1659215984 17267 d45fa5d425e7c5bc7b21e85d23fb9890 ""
   (generated)
   "gan.log"
-  "gan.pdf"
   "gan.aux"
   "gan.out"
+  "gan.pdf"
