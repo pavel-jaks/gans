@@ -2,7 +2,7 @@
 
 Generativní adversariální sítě pro generování grafického obsahu.
 
-## Obsah repozitáře
+## Obsah repositáře
 
 - Adresář code
   - Obsahuje samotné výtvory ve formě jupyter sešitů
