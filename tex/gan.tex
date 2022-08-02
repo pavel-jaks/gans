@@ -99,7 +99,7 @@ Dalším úskokem od kolapsu módů může být penalizace generátoru za nízko
 Potom by při užití Wassersteinovy ztráty mohl problém generátoru vypadat následovně:
 \begin{equation}
     \max_{\theta_g} \left\{ \mathbb{E}_{z \sim p_l(z)} \left[K_{\theta_k}\left(G_{\theta_g}(z)\right)\right]
-     + \lambda \cdot \sum_{i = 1}^{n} \operatorname{Var}_{z \sim p_l(z)} \left[G_{\theta_g}(z)_i\right]\right\},
+     + \lambda \cdot \sum_{i = 1}^{n} \sqrt{\operatorname{Var}_{z \sim p_l(z)} \left[G_{\theta_g}(z)_i\right]}\right\},
 \end{equation}
 kde $\lambda$ je vhodně zvolený hyperparametr.
 
